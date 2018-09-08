@@ -1,2 +1,7 @@
 # hello-world
-Kylah's test file
+
+This is only a test
+
+I know nothing about JAVASCRIPT
+
+Hopefully I will learn
